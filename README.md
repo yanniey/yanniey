@@ -3,7 +3,7 @@
 I'm a senior product analyst at Onfido in London. Apart from that I am an experienced data scientist in running statistical tests, and building machine learning and deep learning models. I recently received a Distintion for my Master of Data Science degree from Birkbeck, University of London where I deployed a deep learning model for computer vision problems from POC to Production. 
 
 😄 **I'm currently working on**: 
-  * Computer Vision problems of machine learning(OpenCV, scikit-learn, Tensorflow)
+  * Solving Computer Vision problems with machine learning and deep learning (OpenCV, scikit-learn, Tensorflow)
 
 🌱 **I am open to**:
   *  Any collobration work (give me a shout if you want another hand for Kaggle projects)
