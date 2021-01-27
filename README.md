@@ -14,7 +14,7 @@ I'm a senior product analyst at Onfido in London. Apart from that I am an experi
   * [Hackerrank](https://www.hackerrank.com/Anyi_Guo?hr_r=1)
 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=yanniey&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yanniey/yanniey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
