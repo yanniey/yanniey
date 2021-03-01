@@ -1,6 +1,6 @@
 ### Hi there, I'm [Anyi Guo](https://guoanyi.com)  👋
 
-I'm a senior product analyst at Onfido in London. Apart from that I am a passionate data scientist in running statistical tests, building machine learning and deep learning models. I recently received a Distintion for my Master of Data Science degree from Birkbeck, University of London where I deployed a deep learning model from POC to Production in AWS. 
+I'm a senior product analyst at Onfido. Apart from that I am a passionate data scientist in running statistical tests, building machine learning and deep learning models. I recently received a Distintion for my Master of Data Science degree from Birkbeck, University of London where I deployed a deep learning model from POC to Production in AWS. 
 
 😄 **I'm currently working on**: 
   * Solving Computer Vision problems with machine learning and deep learning (OpenCV, scikit-learn, Tensorflow)
