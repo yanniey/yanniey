@@ -1,4 +1,4 @@
-### Hi there, I'm [Anyi Guo](https://guoanyi.com)  👋
+### Hi there, I'm Anyi 👋
 
 I'm a senior data scientist at Onfido. At work I'm responsible for running statistical tests, and building machine learning and deep learning models to solve identity verification problems. I recently graduated from Birkbeck, University of London with a Msc of Data Science degree in Distinction.
 
