@@ -1,12 +1,12 @@
 ### Hi there, I'm Anyi 👋
 
-I'm a senior data scientist at Onfido. At work I'm responsible for running statistical tests, and building machine learning and deep learning models to solve identity verification problems. I recently graduated from Birkbeck, University of London with a Msc of Data Science degree in Distinction.
+I'm a data scientist at Onfido. At work I am responsible for running statistical tests and building ML models to solve identity verification problems using Biometrics data such as face match. I have a master degree in data science from Birkbeck, University of London and a bachelor degree in Mathematics and Philosophy.
 
 😄 **I'm currently working on**: 
   * Solving Computer Vision problems with machine learning and deep learning (OpenCV, scikit-learn, Tensorflow)
 
 🌱 **I am open to**:
-  *  Any collobration work (give me a shout if you want another hand for Kaggle competitionss)
+  *  Any collaboration work (give me a shout if you want another hand for Kaggle competitions)
 
 📫  **How to reach me**: 
   * [Linkedin](https://www.linkedin.com/in/anyi-g-71a45b28/)
