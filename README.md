@@ -1,6 +1,6 @@
 ### Hi there, I'm Anyi 👋
 
-I'm a data scientist at Onfido. At work I am responsible for running statistical tests and building ML models to solve identity verification problems using Biometrics data such as face match. I have a master degree in data science from Birkbeck, University of London, and a bachelor degree in Mathematics and Philosophy from St. John's College, MD in the US.
+I'm an applied scientist at Yelp. At work my time is split 50/50 between data science and machine learning engineering.  I have a master degree in data science from Birkbeck, University of London, and a bachelor degree in Mathematics and Philosophy from St. John's College, MD in the US.
 
 😄 **I'm currently working on**: 
   * Solving Computer Vision problems with machine learning and deep learning (OpenCV, scikit-learn, Tensorflow)
