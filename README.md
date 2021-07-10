@@ -3,10 +3,11 @@
 I'm an applied scientist at Yelp. At work my time is split 50/50 between data science and machine learning engineering.  I have a master degree in data science from Birkbeck, University of London, and a bachelor degree in Mathematics and Philosophy from St. John's College, MD in the US.
 
 😄 **I'm currently working on**: 
-  * Solving Computer Vision problems with machine learning and deep learning (OpenCV, scikit-learn, Tensorflow)
+  * Improving the Ads Auction system at Yelp.
 
-🌱 **I am open to**:
-  *  Any collaboration work (give me a shout if you want another hand for Kaggle competitions)
+🌱 **My Past Projects**:
+  *  Solving Computer Vision problems with machine learning and deep learning (OpenCV, scikit-learn, Tensorflow)
+  *  Side project: identify cat breeds with Tensorflow
 
 📫  **How to reach me**: 
   * [Linkedin](https://www.linkedin.com/in/anyi-g-71a45b28/)
