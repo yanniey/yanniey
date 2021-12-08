@@ -1,9 +1,9 @@
 ### Hi there, I'm Annie (Anyi) 👋
 
-I'm an applied scientist at Yelp. At work my time is split 50/50 between data science and machine learning engineering.  I have a master degree in data science from Birkbeck, University of London, and a bachelor degree in Mathematics and Philosophy from St. John's College, MD in the US.
+I'm an applied scientist at Yelp. At work my time is split 50/50 between data science and machine learning engineering. I have a master degree in data science from Birkbeck, University of London, and a bachelor degree in Mathematics and Philosophy from St. John's College, MD in the US.
 
 😄 **I'm currently working on**: 
-  * Improving the Ads Auction system at Yelp.
+  * Improving the Ads Auction system at Yelp by running experiments and randomised controlled trials. We use lots of stats!
 
 🌱 **My Past Projects**:
   *  Solving Computer Vision problems with machine learning and deep learning (OpenCV, scikit-learn, Tensorflow)
