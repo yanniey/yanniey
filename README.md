@@ -10,9 +10,9 @@ I'm an applied scientist at Yelp. At work my time is split 50/50 between data sc
   *  Side project: identify cat breeds with Tensorflow
 
 📫  **How to reach me**: 
+  * [My Medium blog on statistics and ML](https://anyi-guo.medium.com/)
   * [Linkedin](https://www.linkedin.com/in/anyi-g-71a45b28/)
-  * [Kaggle](https://www.kaggle.com/yanniey)
-  * [Hackerrank](https://www.hackerrank.com/Anyi_Guo?hr_r=1)
+ 
 
 <!--
 **yanniey/yanniey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
