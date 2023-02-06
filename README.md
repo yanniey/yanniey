@@ -1,4 +1,4 @@
-### Hi there, I'm Annie (Anyi) 👋
+### Hi there, I'm Anyi 👋
 
 I'm an applied scientist at Yelp working on ad tech such as bid pricing and real time bidding. My typical day is split 50/50 between data science and machine learning engineering. 
 
